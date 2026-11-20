@@ -32,7 +32,8 @@ The agent decides by itself which tools to call and combines their results.
 - What should I pack for 3 days in Manali?
 
 ## Team
--AFFAN ZOHEB -ENG25CS0234
--DHANUSH K -ENG25CS0239
--LN HARIHAR -ENG25CS0254
--N MANOJ -ENG25CS0262
+[-AFFAN ZOHEB -ENG25CS0234]
+[-DHANUSH K -ENG25CS0239]
+[-LN HARIHAR -ENG25CS0254]
+[-N MANOJ -ENG25CS0262]
+[-Nikhil Yadav-ENG25CSCS0266]
